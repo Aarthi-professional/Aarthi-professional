@@ -3,10 +3,10 @@
 <h3 align="center">Data Scientist, Kaggle Contributor</h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Manikandan-professional)](https://github.com/Manikandan-professional/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aarthi-professional)](https://github.com/Aarthi-professional/)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manikandan-professional&label=Profile%20views&color=0e75b6&style=flat" alt="Manikandan-professional" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aarthi-professional&label=Profile%20views&color=0e75b6&style=flat" alt="Aarthi-professional" /> </p>
 
 
 
@@ -39,13 +39,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manikandan-professional&show_icons=true&locale=en&layout=compact" alt="Manikandan-professional" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manikandan-professional&show_icons=true&locale=en" alt="Manikandan-professional" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aarthi-professional&show_icons=true&locale=en" alt="Aarthi-professional" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manikandan-professional&" alt="Manikandan-professional" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aarthi-professional&" alt="Aarthi-professional" /></p>
 
 <!--
 
-**Manikandan-professional/Manikandan-professional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aarthi-professional/Aarthi-professional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
