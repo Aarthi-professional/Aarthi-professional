@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarthi N R</h1>
 
-<h3 align="center">Data Scientist, Kaggle Contributor</h3>
+<h3 align="center">Python Developer and Web Developer</h3>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aarthi-professional)](https://github.com/Aarthi-professional/)
